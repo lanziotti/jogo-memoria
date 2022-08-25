@@ -3,7 +3,7 @@
 ### Projeto em desenvolvimento no curso da Cubos Academy
 
 #### Descrição:
-Projeto de um Jogo da Memória simples com cartas com imagens de linguagens de programação.
+Projeto de um Jogo da Memória simples com cartas com imagens de linguagens de programação, cujo layout teve como base o (arquivo.fig).
 
 #### Linguagens utilizadas:
 - HTML
