@@ -3,13 +3,10 @@
 ### Projeto em desenvolvimento no curso da Cubos Academy
 
 #### Descrição:
-Projeto de um Jogo da Memória simples com cartas com imagens de linguagens de programação.
+Projeto de um Jogo da Memória simples com cartas com imagens de linguagens de programação, utilizando o ReactJS.
 
 #### Linguagens utilizadas:
-- HTML
-- CSS
-- Javascript
-- ReactJS
+- Javascript (ReactJS)
 
 #### Vídeo do projeto:
 
